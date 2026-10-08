@@ -5,6 +5,7 @@ __pycache__/
 frost_id.py
 # C extensions
 *.so
+frost_id.py
 
 # Distribution / packaging
 .Python
